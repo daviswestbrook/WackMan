@@ -17,3 +17,7 @@ and repeat above comand.
 Finally, Wackman can be run with:
 
 Python3 game.py
+
+If having trouble with window focus/nonresponse to key input, try instead:
+
+Pythonw game.py
