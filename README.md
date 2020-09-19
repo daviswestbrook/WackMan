@@ -1,5 +1,5 @@
 # WackMan
-'''
+
 Wackman utilizes gamebox.py, an auxiliary program authored by Luther Tychonievich
 
 Wackman can be played in the terminal using Python3
