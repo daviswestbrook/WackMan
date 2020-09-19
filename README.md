@@ -24,7 +24,7 @@ if an exception is thrown, try:
 
 brew install sdl sdl_image sdl_mixer sdl_ttf portmidi
 
-and repeat above comand.
+and repeat above command.
 
 TO PLAY:
 
