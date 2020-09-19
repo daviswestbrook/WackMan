@@ -1,8 +1,12 @@
 # WackMan
+WackMan is an interactive game, in which the user attempts to collect bloops while
+avoiding snakes that are roaming the map.
+After each bloop has been collected, the next level (with a unique color scheme) is entered.
 
-Wackman utilizes gamebox.py, an auxiliary program authored by Luther Tychonievich
+WackMan utilizes gamebox.py, an auxiliary program authored by Luther Tychonievich
+Sprites were created by Jordan Irwin of OpenGameArt.org
 
-Wackman can be played in the terminal using Python3
+WackMan can be played in the terminal using Python3
 
 PyGame must be installed to play Wackman, which can be installed using the following command:
 
