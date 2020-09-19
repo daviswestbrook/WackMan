@@ -12,7 +12,7 @@ WackMan utilizes gamebox.py, an auxiliary program authored by Luther Tychonievic
 
 Sprites were created by Jordan Irwin of OpenGameArt.org
 
-INSTRUCTIONS:
+REQUIREMENTS:
 
 WackMan can be played in the terminal using Python3
 
@@ -25,6 +25,8 @@ if an exception is thrown, try:
 brew install sdl sdl_image sdl_mixer sdl_ttf portmidi
 
 and repeat above comand.
+
+TO PLAY:
 
 Finally, Wackman can be run with:
 
